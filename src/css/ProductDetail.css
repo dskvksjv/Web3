@@ -1,0 +1,22 @@
+div {
+    background-color: rgb(185, 175, 175);
+    padding: 20px;
+    margin: 10px;
+    border-radius: 8px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin: 10px 0;
+  }
+  
+  h2, h3 {
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  
